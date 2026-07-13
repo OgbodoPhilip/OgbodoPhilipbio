@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, My Name is Ogbodo Philip</h1>
-<h2 align="left">Experienced web and mobile developer with a strong passion for building innovative digital solutions. Proficient in a range of technologies, including React, NextJS, and React Native, I have over 3 years of hands-on experience crafting engaging user interfaces, developing responsive websites, and creating seamless mobile applications. Dedicated to delivering exceptional user experiences, I bring a keen eye for design, a drive for innovation, and a commitment to excellence to every project. In my free time, I explore new technologies and contribute to community-driven initiatives.
+<h2 align="left">Experienced web and mobile developer with a strong passion for building innovative digital solutions. Proficient in a range of technologies, including React, Next.js, React Native and Node.js, I have over 5 years of hands-on experience crafting engaging user interfaces, developing responsive websites, and creating seamless mobile applications. Dedicated to delivering exceptional user experiences, I bring a keen eye for design, a drive for innovation, and a commitment to excellence to every project. In my free time, I explore new technologies and contribute to community-driven initiatives.
 </h2>
 
 
